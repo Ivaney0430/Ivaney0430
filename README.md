@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Ivaney
 🔭 I’m a Research Assistant in Aviation Services Research Centre (ASRC)<br>🤝 Studying MSc Data Analytics and Artificial Intelligence at Hong Kong Baptist University<br>👯 Studied BEng Computer and Data Engineering at City Univesity of Hong Kong<br>🌱 Field of me : AI, Machine Learning & Robotics, RAG<br>💬 Passionate about Music, Dramas, Story Telling, and  Design (Bullet Jornal, Nails etc)<br>⚡ Big Fans of Harry Potter and Disney Collection
 
 
